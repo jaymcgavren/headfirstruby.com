@@ -3,7 +3,7 @@ GEM
   specs:
     erubis (2.7.0)
     i18n (0.6.11)
-    rack (1.6.4)
+    rack (1.6.12)
     rack-protection (1.5.3)
       rack
     sinatra (1.4.6)
